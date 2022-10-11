@@ -11,12 +11,9 @@
 <div align="center">
 <a href="https://github.com/jocad7">
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=jocad7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocad7&layout=compact&theme=dark"/>
-  
-</div>
- 
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocad7&layout=compact&theme=dark"/>  
+</div> 
 <br><hr>  
- 
 <div> 
 <a href="https://www.reddit.com/user/Jacod7" target="_blank"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/valiantd7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=purple" target="_blank"></a>
