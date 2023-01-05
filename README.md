@@ -4,7 +4,7 @@
 <div align="center">
 <h3><strong>My skills and tools until now:</strong></h3>
 <a href="#">
-<img src ="https://skillicons.dev/icons?i=html,css,js,react,styledcomponents,visualstudio,git"
+<img src ="https://skillicons.dev/icons?i=html,css,js,react,styledcomponents,visualstudio,git" alt="Html, Css, Js, React, Styled Components, Vscode, Git">
 </a>
 </div>
 <hr>
