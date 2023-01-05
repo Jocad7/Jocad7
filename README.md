@@ -1,8 +1,8 @@
-### <div align="center">Welcome to my Git, my name is Daniel and I am in the process of becoming a web developer 🐢<hr>
+## <div align="center">*Welcome to my Git, my name is Daniel and I am in the process of becoming a web developer* 🐢
 
 
 <div align="center">
-<h3><strong>My skills and tools until now:</strong></h3>
+<h3><strong>My skills and tools until now:</strong></h3> 
 <a href="#">
 <img src ="https://skillicons.dev/icons?i=html,css,js,react,styledcomponents,visualstudio,git" alt="Html, Css, Js, React, Styled Components, Vscode, Git">
 </a>
