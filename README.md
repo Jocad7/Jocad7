@@ -8,7 +8,6 @@
 </a>
 </div>
 <hr>
-
 <div align="center">
 <a href="https://github.com/jocad7">
 <img height="155px" src="https://stats-jocad.vercel.app/api?username=jocad7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
