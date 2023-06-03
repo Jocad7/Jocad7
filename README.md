@@ -1,4 +1,4 @@
-## <div align="center">*Welcome to my Git, my name is Daniel and I am in the process of becoming a web developer* 🐢
+## <div align="center">*Welcome to my Git, my name is Daniel and i am in the process of becoming a web developer* 🐢
 
 
 <div align="center">
